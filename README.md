@@ -1,7 +1,16 @@
-### Hi there 👋
+# roland.
+
+### *[ro.land]* • **frontend developer**
+
+Roland is a frontend developer with a passion for creative coding and a sharp focus on CSS, HTML, and accessibility. I thrive on building web experiences that are not only visually appealing but accessible and performant for everyone.
 
 <!--
 **rol4nd909/rol4nd909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Hi there 👋
+
+
+
 
 Here are some ideas to get you started:
 
